@@ -1,23 +1,23 @@
 # GUI Project
 
 ## Overview
-Welcome to the GUI project repository. This project contains graphical user interface applications developed using various GUI frameworks and libraries. The repository aims to showcase our skills in creating interactive and visually appealing user interfaces.
+Welcome to the GUI project repository. This project contains a collection of graphical user interface (GUI) programs developed using various programming languages and GUI frameworks. Each directory represents a different GUI element or concept implemented in the project.
 
 ## Contents
-- **Java Swing Applications:**
-  - Simple Calculator
-  - To-Do List Manager
-  - Image Viewer
+- **GUI Elements:**
+  - [Checkbox](src/GUI elements/checkbox): A simple GUI program demonstrating the usage of checkboxes.
+  - [Combobox](src/GUIelements/combobox): Example of a combobox (dropdown menu) in a GUI application.
+  - [Coordinates](src/GUIelements/coordinates): Program showcasing the coordinates system in a GUI.
+  - [Layouts](src/GUIelements/layouts): Different layout managers for arranging GUI components.
+  
+- **Functional Programs:**
+  - [Left and Right Alignment](src/left-right): GUI program demonstrating left and right alignment of components.
+  - [Left and Right Alignment 2](src/leftnright2): Another example of left and right alignment with different components.
+  - [Push Counter](src/pushcounter): A simple counter application using buttons.
+  - [Square Drawing](src/square): Program to draw squares on a canvas using mouse clicks.
 
-- **JavaFX Applications:**
-  - Media Player
-  - Chat Application
-  - Weather App
-
-- **Python Tkinter Applications:**
-  - Text Editor
-  - Drawing Application
-  - Calculator
+- **Concept Demonstrations:**
+  - [Polymorphism](src/polymorphism): Example demonstrating polymorphism in a GUI program.
 
 ## Technologies Used
 - **Programming Languages:**
@@ -26,49 +26,21 @@ Welcome to the GUI project repository. This project contains graphical user inte
 
 - **GUI Frameworks:**
   - Java Swing
-  - JavaFX
-  - Tkinter
-
-## Installation
-To clone and run this repository locally, follow these steps:
-
-1. **Clone the Repository:**
-    ```sh
-    git clone https://github.com/Hritickjha/GUI.git
-    ```
-
-2. **Navigate to the Project Directory:**
-    ```sh
-    cd GUI
-    ```
-
-3. **Run GUI Applications:**
-   - For Java Swing and JavaFX applications, compile and run the Java files as mentioned in the installation steps of the respective projects.
-   - For Python Tkinter applications, run the Python scripts directly using the `python` command.
+  - Tkinter (Python)
 
 ## Usage
-1. **Browse the Code:**
-   - Navigate through the directories to find the GUI applications categorized based on the programming language and GUI framework used.
-   - Each application directory contains the source code files along with comments and explanations.
-
-2. **Run the Applications:**
-   - Follow the installation steps to run the respective GUI applications locally.
-   - Explore the functionalities of each application and interact with the user interface.
+1. Navigate to the desired directory containing the GUI program.
+2. Compile and run the program using the appropriate commands for the programming language and framework.
 
 ## Contributing
-We welcome contributions to enhance the GUI project repository. To contribute, please follow these steps:
-
+Contributions are welcome! If you'd like to add new GUI programs or improve existing ones, please follow these steps:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/YourFeature`).
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any inquiries or issues, please contact:
-
 - **Hritick Jha**
 - Email:jhahritick@gmail.com
